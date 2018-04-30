@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/robotic_arm_ga.dir/main.cpp.o  -o robotic_arm_ga.exe -Wl,--out-implib,librobotic_arm_ga.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
